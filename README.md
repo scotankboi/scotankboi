@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Terry 👋</h1>
-  <h3>Medicinal Chemistry Student @ The University of Edinburgh | Lead Data Analyst at SFI Partners</h3>
+  <h3>Medicinal Chemistry Student @ The University of Edinburgh | Lead Operations Analyst at SFI Partners</h3>
   
   <p>Building clean models, analyzing complex data, and actively bridging between sports and finance.</p>
 
