@@ -14,7 +14,7 @@
 
 I am a driven Medicinal Chemistry student with a strong foundation in mathematics and programming. I specialize in turning raw data into actionable insights and am passionate about writing clean, reproducible code.
 
-* 🎓 **Education:** B.Sc. in Medicinal Chemistry, The University of Edinburgh (Expected Graduation: May 2027)
+* 🎓 **Education:** B.Sc. in Medicinal Chemistry, The University of Edinburgh (Expected Graduation: May 2028)
 * 🌱 **Currently learning:** Model Deployment, Time-Series Forecasting, Machine Learning
 * 💼 **Looking for:** Data Science or Machine Learning Internships
 * ⚡ **Fun fact:** I served as a tank driver at the Korean army for 18 months
